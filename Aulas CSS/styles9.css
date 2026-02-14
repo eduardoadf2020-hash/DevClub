@@ -1,0 +1,23 @@
+.box {
+    background: #FF1395;
+    width: 50px;
+    height: 50px; 
+    display: inline;  
+}
+
+.box-2 {
+    background: #0806a2;
+    display: block;
+}
+
+.box-3 {
+    background: #13FF95;
+    display: inline-block;
+}
+
+/* display: inline - O elemento será exibido como um elemento inline (como um span). Quaisquer propriedades de altura e largura não terão efeito.
+
+   display: block - O elemento será exibido como um elemento de bloco (como uma div). Ele ocupará toda a largura disponível.
+
+   display: inline-block - O elemento será exibido como um container de bloco inline. Ele permite definir largura e altura. */
+

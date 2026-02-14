@@ -1,0 +1,20 @@
+
+
+#titulo {
+    color: blue;
+    font-size: 55px;
+}
+
+#paragrafo {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#botao {
+    background: green;
+}
+
+#outro-botao {
+    background: chocolate;
+}

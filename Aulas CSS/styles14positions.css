@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw;
+}
+
+.div-dad {
+    height: 350px;
+    width: 350px;
+    background-color: #FF1396;
+}
+
+.div-son {
+    height: 150px;
+    width: 150px;
+    background-color: #FFFF00;
+}
+
+.div-cousin {
+    height: 100px;
+    width: 100px;
+    background-color: #45bd09;
+}
+
+/* 
+- Position: static - É o valor padrão, não aceita as propriedades top, bottom, left e right.
+- Position: fixed - O elemento fica fixo na tela.
+- Position: sticky - Age como um adesivo, fixa o elemento quando ele atinge um determinado ponto de rolagem.
+- Position: relative - O elemento fica posicionado em relação a sua posição inicial, necessário usar as propriedades com valores de top, bottom, left e right para movê-lo.
+- Position: absolute - Posição absoluta a algum elemento ou a página. 
+    SE não tiver pai / pai for static -> Posiciona relativo a página.
+    SE tiver pai e NÃO for static -> Posiciona em relação ao pai.
+*/

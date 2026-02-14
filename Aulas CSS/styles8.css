@@ -1,0 +1,19 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #FF1493;
+    padding: 20px;
+    border: 10px solid #0000FF;
+
+}
+
+/* Box-sizing: border-box; Vai fazer com que a largura e altura do elemento sejam calculadas com base na largura e altura do conteúdo, incluindo o padding e o border. Isso significa que a largura total do elemento será igual à largura do conteúdo + padding + border, e a altura total do elemento será igual à altura do conteúdo + padding + border. Isso é útil para evitar que o elemento fique maior do que o esperado quando se adiciona padding e border, e para garantir que o layout do site seja consistente em diferentes navegadores.
+
+Box-sizing: content-box; É o valor padrão do box-sizing, onde a largura e altura do elemento são calculadas apenas com base na largura e altura do conteúdo, sem incluir o padding e o border. Isso significa que a largura total do elemento será igual à largura do conteúdo, e a altura total do elemento será igual à altura do conteúdo. Se você adicionar padding ou border ao elemento, ele ficará maior do que o esperado, o que pode causar problemas de layout em alguns casos.
+*/

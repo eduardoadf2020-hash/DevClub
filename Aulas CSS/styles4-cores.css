@@ -1,0 +1,24 @@
+
+
+h1 {
+    background: #09b0a5;
+}
+
+/* Decimal: 0 1 2 3 4 5 6 7 8 9 (10 números)
+Hexadecimal: 0 1 2 3 4 5 6 7 8 9 A B C D E F (16 números)
+
+Unidades de medida CSS mais comuns:
+px - pixels
+cm - centímetros
+mm - milimetros
+in - polegadas
+pt - pontos
+pc - picas
+em - unidade relativa à fonte do elemento pai    
+ex - unidade relativa ao x-height do elemento pai    
+ch - unidade relativa ao cap height do elemento pai    
+vh - unidade relativa ao 1% da altura da viewport
+vw - unidade relativa ao 1% da largura da viewport    
+% - unidade relativa ao 1% do elemento pai
+
+*/
